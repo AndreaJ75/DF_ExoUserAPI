@@ -8,7 +8,7 @@
       <ObjectId>16384</ObjectId>
       <StateNumber>555</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>724</IntrospectionStateNumber>
+      <IntrospectionStateNumber>753</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </database>
@@ -17,7 +17,6 @@
       <Comment>default administrative connection database</Comment>
       <StateNumber>553</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>721</IntrospectionStateNumber>
     </database>
     <role id="4" parent="1" name="change">
       <ObjectId>16385</ObjectId>
@@ -94,7 +93,7 @@
       <Comment>standard public schema</Comment>
       <StateNumber>351</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>725</IntrospectionStateNumber>
+      <IntrospectionStateNumber>754</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
